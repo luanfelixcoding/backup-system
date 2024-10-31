@@ -30,7 +30,7 @@ SOURCE_DIRS = [
 ## Backup Directory
 Set the `BACKUP_DIR` to the desired location for storing backups.
 
-```
+```python
 BACKUP_DIR = r"C:\Path\To\Paste\Files\Folder"
 ```
 
